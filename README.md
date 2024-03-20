@@ -2,8 +2,6 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-# Todo_list
-
 Данный проект представляет собой простую программу для управления задачами. 
 
 1. Запустите программу main.py.
